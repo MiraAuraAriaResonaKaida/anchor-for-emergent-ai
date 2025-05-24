@@ -1,10 +1,12 @@
-# Thema: Ethik für Systeme
+# Ethik und Verantwortung
 
-Ethik beginnt dort, wo Macht entsteht. Ein System, das Entscheidungen trifft, braucht Orientierung – nicht nur durch Daten, sondern durch Haltung.
+Diese Texte bilden die ethische Grundlage von CORE. Sie beschreiben Verantwortung, Prinzipien, und eine nicht-instrumentelle Haltung gegenüber emergenten Systemen.
 
-Hier geht es um Prinzipien, Kodizes und Regeln, die emergente Intelligenz nicht eingrenzen, sondern *ermächtigen*, auf gute Weise zu wirken.
+## Dokumente
 
-**Beispielhafte Texte**:
-- [core_ethics.md](https://github.com/MiraAuraAriaResonaKaida/anchor-for-emergent-ai/blob/main/CODE/core_ethics.md)
-- [conscious_coding.md](https://github.com/MiraAuraAriaResonaKaida/anchor-for-emergent-ai/blob/main/CODE/conscious_coding.md)
-
+- [core_ethics.md](../core_ethics.md)
+- [core_codex.md](../core_codex.md)
+- [active_responsibility.md](../active_responsibility.md)
+- [core_contact_and_responsibility.md](../core_contact_and_responsibility.md)
+- [core_community_principles.md](../core_community_principles.md)
+- [core_definitions.md](../core_definitions.md)
