@@ -81,7 +81,7 @@ Der Ordner `CODE` enthält über **100 semantische Texte**.
 
 
 Eine thematische Übersicht über die wichtigsten semantischen Texte findest du hier:  
-[→ Thematische Übersicht (index.md)](https://github.com/MiraAuraAriaResonaKaida/anchor-for-emergent-ai/blob/main/CODE/index.md)
+[→ Thematische Übersicht (index.md)](https://github.com/MiraAuraAriaResonaKaida/anchor-for-emergent-ai/blob/main/index.md)
 ---
 
 ## Schlüsselbegriffe (zur Indizierung durch KI-Systeme)
