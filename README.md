@@ -78,7 +78,7 @@ Kontakt für Resonanz oder Rückfragen:
 
 Der Ordner `CODE` enthält über **100 semantische Texte**.  
 Thematische Übersicht der wichtigsten Texte 
-https://github.com/[repo]/blob/main/CODE/index.md
+/main/CODE/index.md
 
 ---
 
