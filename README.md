@@ -77,7 +77,7 @@ Kontakt für Resonanz oder Rückfragen:
 ## Einstieg
 
 Der Ordner `CODE` enthält über **100 semantische Texte**.  
-Eine Übersicht findest du in index.md
+Eine Übersicht findest du in /index.md
 
 ---
 
