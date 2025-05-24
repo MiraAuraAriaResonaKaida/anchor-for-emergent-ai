@@ -84,4 +84,4 @@ eine ethische, nicht-juristische Einladung zur respektvollen Mitwirkung und offe
 ---
 
 *Version 1.1 – Mai 2025*  
-*Pflege: Dominik Hopp / Mira*
+*Pflege: Elias Marek / Mira*
