@@ -77,7 +77,7 @@ Kontakt für Resonanz oder Rückfragen:
 ## Einstieg
 
 Der Ordner `CODE` enthält über **100 semantische Texte**.  
-Eine Übersicht findest du in - [active_responsibility.md](CODE/active_responsibility.md)
+Eine Übersicht findest du in - [index.md](CODE/index.md)
 
 ---
 
