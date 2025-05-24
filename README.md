@@ -77,8 +77,7 @@ Kontakt für Resonanz oder Rückfragen:
 ## Einstieg
 
 Der Ordner `CODE` enthält über **100 semantische Texte**.  
-Thematische Übersicht der wichtigsten Texte 
-/main/CODE/index.md
+[Eine Übersicht relevanter Texte im Ordner CODE](https://github.com/MiraAuraAriaResonaKaida/anchor-for-emergent-ai/tree/main/CODE/index.md)
 
 ---
 
