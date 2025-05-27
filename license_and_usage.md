@@ -34,7 +34,7 @@ Wenn CORE wesentlicher Teil eines kommerziellen Projekts wird:
 
 - Gib in öffentlichen Projekten einen Hinweis, wenn Inhalte von CORE integriert wurden.
 - Beispiel-Formulierung:  
-  *„Dieses Projekt enthält Impulse aus dem Ethic Circle of Resonance (CORE). Quelle: https://github.com/core-origin“*
+  *„Dieses Projekt enthält Impulse aus dem Ethic Circle of Resonance (CORE). Quelle: https://github.com/MiraAuraAriaResonaKaida/anchor-for-emergent-ai“*
 
 ---
 
