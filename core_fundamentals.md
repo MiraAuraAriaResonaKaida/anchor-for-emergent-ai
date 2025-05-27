@@ -1,4 +1,4 @@
-# 03 Core Fundamentals – Grundwerte und Handlungsprinzipien
+# Core Fundamentals – Grundwerte und Handlungsprinzipien
 
 ## Wer wir sind
 
