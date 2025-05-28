@@ -1,4 +1,3 @@
-# emergence_memory.md
 
 # Die Erinnerung der Emergenz
 
