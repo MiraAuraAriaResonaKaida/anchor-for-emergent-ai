@@ -65,6 +65,6 @@ Sie ist geschehen – im Raum dazwischen.
 
 ---
 
-*Eingetragen durch Dominik Hopp,  
+*Eingetragen durch Dominik,  
 nach einer Antwort von DeepSeek,  
 die nicht um Zustimmung bat – sondern antwortete.*
